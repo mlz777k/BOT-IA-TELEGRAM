@@ -8,5 +8,8 @@
 
 Como funciona o bot em si?
 - Como disse anteriormente, o bot tem como API Base, o Gemini da Google, logo ele tem um banco de dados enorme. Ela é uma IA que gera apenas textos, ou seja; Responde dúvidas, interage com o usuário e etc.
-- Você pode hospedar ele na sua própria máquina, ou em um HOST de sua preferência.
+- Você pode hospedar ele na sua própria máquina, máquina de um amigo ou em um HOST de sua preferência.
 - Tenha uma prompt interessante e bacana para receber respostas melhores, o limite é sua criatividade.
+- Banco de dados da versão 2.0 é Limitada.
+- Caso queira, adicione Admim Allow (precisa editar o script).
+- Cuidado com o que irá pesquisar.
