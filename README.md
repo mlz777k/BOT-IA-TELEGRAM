@@ -1,28 +1,12 @@
-## Olá, bem vindo(a) ao meu GiThub.
+## BOT NO TELEGRAM COM IA 🤖
+- Antes de tudo, caso seja brasileiro, desligue a tradução automaticamente do seu navegador.- Ola, me chamo Muel ou Mlz77k, tanto faz como queiram me chamar. Criei esse bot para matar o tédio, Ele foi utilizado uma API do gemini 2.0. O Gemini é uma IA criada pela empresa Google, muito famosa e utilizada mundialmente, não me dou os créditos de ter criado a IA em si, afinal o banco de Dados dela é inteiramente do GEMINI. Gemini é uma IA que já possui um aplicativo, site e a própria integração com o Google, porém decidir colocar para usuários do Telegram que utilizam muitos Bots, principalmente em grupos de pesquisas, ajudas e etc. Ele infelizmente não gera imagens, mas é por conta da API mesmo, mais para frente talvez eu troque essa API. Lembrando que; erros na API, respostas não desejadas e etc, não é algo que consigo modificar e resolver. 👁
+ 
+## Infos:
+- O Bot foi inteiramente criado em Python. 🛠
+- Para criar um bot no Telegram, utilize o @Botfather. 👨‍👦
+- Qualquer erro ou duvidas me chame nas redes sociais que esta no README.md no meu perfil. 💬
 
-- 🪪 Me chamo Muel.
-- 👁️‍🗨️ Programador e cibersegurança.                                          
-- 🌀 Aqui compartilho alguns projetinhos para uso de vocês. 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Muel-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Muel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Muel-types" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Muel-JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Muek-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Muel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Muel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  
-  </div>
-
-## Entre em Contato comigo:
-
-<a href="https://instagram.com/mlz77k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://x.com/mlz77k" target="_blank">
-  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank">
-</a>
-
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mlz777k&layout=compact"> 
-
-
-<img align="" alt="Muel-gif" src="https://cdn.discordapp.com/attachments/1297081021593817132/1372007680058589194/IMG_1197.gif?ex=68253539&is=6823e3b9&hm=a9cb850467d965900b5858c44d49c6f50ac7fb9f80deb8c9188b3a1e4afbf4fe&">
+Como funciona o bot em si?
+- Como disse anteriormente, o bot tem como API Base, o Gemini da Google, logo ele tem um banco de dados enorme. Ela é uma IA que gera apenas textos, ou seja; Responde dúvidas, interage com o usuário e etc.
+- Você pode hospedar ele na sua própria máquina, ou em um HOST de sua preferência.
+- Tenha uma prompt interessante e bacana para receber respostas melhores, o limite é sua criatividade.
